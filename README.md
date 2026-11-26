@@ -1,6 +1,6 @@
 # Repo Structure
 
-* mauna (Requires the upstream [ALOHA}(https://github.com/Interbotix/aloha) repository to be installed)
+* mauna (Requires the upstream [ALOHA](https://github.com/Interbotix/aloha) repository to be installed)
   * ``act`` Modified scripts for ACT. (Requires the upstream [act_plus_plus](https://github.com/Interbotix/act_plus_plus) repository to be installed)
   * ``atomic_tasks`` Definition of basic, reusable robotic atomic tasks
   * ``workflow`` High-level task sequencing and logic orchestration
